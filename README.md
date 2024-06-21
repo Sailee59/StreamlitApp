@@ -33,9 +33,14 @@ This Streamlit app predicts the prescribed drug based on user input for Age, Sex
 
 ## Running the Streamlit App
 
-1. Navigate to the project directory if you haven't already:
-   ```bash
-   cd C:\Users\Admin\Desktop\StAPP
+Make sure your `app.py` file is located in a directory accessible from your command line or terminal.
+
+1. Navigate to the directory containing `app.py`.
+
+2. Start the Streamlit app:
+   
+   streamlit run app.py
+
 
 
 
